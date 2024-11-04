@@ -1,0 +1,10 @@
+GRCm39	protein_coding	Gene	integrin	Itga5	103252713	103275190	15	mus_musculus	-1
+GRCm39	protein_coding	Gene	homeobox	Hoxc13	102829538	102837249	15	mus_musculus	1
+GRCm39	protein_coding	Gene	homeobox	Hoxc8	102899039	102902543	15	mus_musculus	1
+GRCm39	protein_coding	Gene	homeobox	Hoxc6	102906689	102920313	15	mus_musculus	1
+GRCm39	protein_coding	Gene	homeobox	Hoxc5	102875878	102925861	15	mus_musculus	1
+GRCm39	protein_coding	Gene	proline	Prr13	102367463	102371241	15	mus_musculus	1
+GRCm39	protein_coding	Gene	calcium	Calcoco1	102615212	102630613	15	mus_musculus	-1
+GRCm39	protein_coding	Gene	single-strand	Smug1	103061717	103075519	15	mus_musculus	-1
+GRCm39	protein_coding	Gene	homeobox	Hoxc4	102927366	102945278	15	mus_musculus	1
+GRCm39	miRNA	Gene	microRNA	Mir615	102923342	102923433	15	mus_musculus	1

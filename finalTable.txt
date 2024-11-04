@@ -1,0 +1,11 @@
+display_name	species	biotype	length_of_protein	description	gene_start	gene_end	gene_length	chromosome	sequence_start	orientation	exon_count
+Itga5	mus_musculus	protein_coding	1053	integrin	103252713	103275218	22505	15	MGSWTPRSPR	minus	31
+Hoxc13	mus_musculus	protein_coding	328	homeobox	102829566	102837249	7683	15	MTTSLLLHPR	plus	2
+Hoxc8	mus_musculus	protein_coding	242	homeobox	102898971	102902707	3736	15	MSSYFVNPLF	plus	3
+Hoxc6	mus_musculus	protein_coding	235	homeobox	102906658	102920314	13656	15	MNSYFTNPSL	plus	4
+Hoxc5	mus_musculus	protein_coding	222	homeobox	102922440	102925861	3421	15	MSSYVANSFY	plus	2
+Prr13	mus_musculus	protein_coding	137	proline	102367605	102371241	3636	15	MWNPNAGPNP	plus	5
+Calcoco1	mus_musculus	protein_coding	691	calcium	102615212	102630616	15404	15	MEESSLSRAP	minus	16
+Smug1	mus_musculus	protein_coding	279	single-strand	103061717	103077360	15643	15	MAASQTFPLG	minus	12
+Hoxc4	mus_musculus	protein_coding	264	homeobox	102926531	102945281	18750	15	MIMSSYLMDS	plus	5
+Mir615	mus_musculus	miRNA	NULL	microRNA	102923342	102923433	91	15	NULL	plus	1
