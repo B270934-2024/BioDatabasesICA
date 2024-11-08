@@ -1,0 +1,7 @@
+Column Name	Data Type	Description
+Entry	VARCHAR(20)	Primary UniProt accession number for the protein.
+Gene	VARCHAR(50)	Name of the gene (Primary Key).
+Organism	VARCHAR(50)	Organism name associated with the protein.
+Sequence	VARCHAR(255)	Amino acid sequence of the protein.
+Length	INT	Length of the protein sequence.
+sequence_start	VARCHAR(10)	The first 10 amino acids of the sequence.

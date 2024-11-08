@@ -1,0 +1,18 @@
+Column Name	Data Type	Description
+tax_id	VARCHAR(20)	The taxonomic identifier for the species.
+Org_name	VARCHAR(50)	The organism name.
+GeneID	VARCHAR(50)	The gene identifier in NCBI.
+CurrentID	VARCHAR(50)	Current identifier for the gene.
+Status	VARCHAR(50)	Status of the gene (e.g., alive).
+Symbol	VARCHAR(50)	Symbolic name of the gene.
+Aliases	VARCHAR(50)	Alternative names or aliases for the gene.
+description	VARCHAR(255)	A description of the gene.
+other_designations	VARCHAR(50)	Additional designations or descriptions.
+map_location	INT	Physical location of the gene on the chromosome.
+chromosome	INT	Chromosome number where the gene is located.
+genomic_nucleotide_accession_version	VARCHAR(50)	Accession version for nucleotide sequence.
+start_position_on_the_genomic_accession	INT	Start position on the genomic sequence.
+end_position_on_the_genomic_accession	INT	End position on the genomic sequence.
+orientation	VARCHAR(50)	Orientation (direction) of the gene.
+exon_count	INT	Number of exons in the gene.
+gene_length	INT	Calculated length of the gene.

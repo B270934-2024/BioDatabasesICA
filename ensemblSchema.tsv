@@ -1,0 +1,11 @@
+Column Name	Data Type	Description
+assembly_name	VARCHAR(50)	The name of the genome assembly version.
+biotype	VARCHAR(50)	The biological type of the gene (e.g., protein-coding).
+object_type	VARCHAR(50)	The type of object, such as gene.
+description	VARCHAR(255)	A brief description of the gene.
+display_name	VARCHAR(50)	The primary name of the gene.
+start	INT	The start position of the gene on the chromosome.
+end	INT	The end position of the gene on the chromosome.
+seq_region_name	INT	Chromosome or region where the gene is located.
+species	VARCHAR(50)	The species in which this gene is found.
+strand	INT	The strand (direction) of the gene (1 or -1).
