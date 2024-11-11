@@ -1,0 +1,211 @@
+
+Searched information on ENSMUSG00000036061 in Ensembl.
+
+
+Searched information on ENSMUSG00000000555 in Ensembl.
+
+
+Searched information on ENSMUSG00000023055 in Ensembl.
+
+
+Searched information on ENSMUSG00000075394 in Ensembl.
+
+
+Searched information on ENSMUSG00000001655 in Ensembl.
+
+
+Searched information on ENSMUSG00000022485 in Ensembl.
+
+
+Searched information on ENSMUSG00000001657 in Ensembl.
+
+
+Searched information on ENSMUSG00000001661 in Ensembl.
+
+
+Searched information on ENSMUSG00000076010 in Ensembl.
+
+
+Searched information on ENSMUSG00000023048 in Ensembl.
+
+Converted ENSMUSG00000000555.json.tmp into TSV format.
+Converted ENSMUSG00000001655.json.tmp into TSV format.
+Converted ENSMUSG00000001657.json.tmp into TSV format.
+Converted ENSMUSG00000001661.json.tmp into TSV format.
+Converted ENSMUSG00000022485.json.tmp into TSV format.
+Converted ENSMUSG00000023048.json.tmp into TSV format.
+Converted ENSMUSG00000023055.json.tmp into TSV format.
+Converted ENSMUSG00000036061.json.tmp into TSV format.
+Converted ENSMUSG00000075394.json.tmp into TSV format.
+Converted ENSMUSG00000076010.json.tmp into TSV format.
+Reading file ENSMUSG00000000555.json.tmp.txt.tmp
+Searched NCBI for Itga5 from mus_musculus
+Searched UNIPROT for Itga5 and mus_musculus
+Reading file ENSMUSG00000001655.json.tmp.txt.tmp
+Searched NCBI for Hoxc13 from mus_musculus
+Searched UNIPROT for Hoxc13 and mus_musculus
+Reading file ENSMUSG00000001657.json.tmp.txt.tmp
+Searched NCBI for Hoxc8 from mus_musculus
+Searched UNIPROT for Hoxc8 and mus_musculus
+Reading file ENSMUSG00000001661.json.tmp.txt.tmp
+Searched NCBI for Hoxc6 from mus_musculus
+Searched UNIPROT for Hoxc6 and mus_musculus
+Reading file ENSMUSG00000022485.json.tmp.txt.tmp
+Searched NCBI for Hoxc5 from mus_musculus
+Searched UNIPROT for Hoxc5 and mus_musculus
+Reading file ENSMUSG00000023048.json.tmp.txt.tmp
+Searched NCBI for Prr13 from mus_musculus
+Searched UNIPROT for Prr13 and mus_musculus
+Reading file ENSMUSG00000023055.json.tmp.txt.tmp
+Searched NCBI for Calcoco1 from mus_musculus
+Searched UNIPROT for Calcoco1 and mus_musculus
+Reading file ENSMUSG00000036061.json.tmp.txt.tmp
+Searched NCBI for Smug1 from mus_musculus
+Searched UNIPROT for Smug1 and mus_musculus
+Reading file ENSMUSG00000075394.json.tmp.txt.tmp
+Searched NCBI for Hoxc4 from mus_musculus
+Searched UNIPROT for Hoxc4 and mus_musculus
+Reading file ENSMUSG00000076010.json.tmp.txt.tmp
+Searched NCBI for Mir615 from mus_musculus
+Searched UNIPROT for Mir615 and mus_musculus
+*************************** 1. row ***************************
+     display_name: Itga5
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 1053
+ long_description: integrin alpha 5 (fibronectin receptor alpha)
+          summary: integrin
+       gene_start: 103252713
+         gene_end: 103275218
+      gene_length: 22505
+       chromosome: 15
+   sequence_start: MGSWTPRSPR
+      orientation: minus
+       exon_count: 31
+*************************** 2. row ***************************
+     display_name: Hoxc13
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 328
+ long_description: homeobox C13
+          summary: homeobox
+       gene_start: 102829566
+         gene_end: 102837249
+      gene_length: 7683
+       chromosome: 15
+   sequence_start: MTTSLLLHPR
+      orientation: plus
+       exon_count: 2
+*************************** 3. row ***************************
+     display_name: Hoxc8
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 242
+ long_description: homeobox C8
+          summary: homeobox
+       gene_start: 102898971
+         gene_end: 102902707
+      gene_length: 3736
+       chromosome: 15
+   sequence_start: MSSYFVNPLF
+      orientation: plus
+       exon_count: 3
+*************************** 4. row ***************************
+     display_name: Hoxc6
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 235
+ long_description: homeobox C6
+          summary: homeobox
+       gene_start: 102906658
+         gene_end: 102920314
+      gene_length: 13656
+       chromosome: 15
+   sequence_start: MNSYFTNPSL
+      orientation: plus
+       exon_count: 4
+*************************** 5. row ***************************
+     display_name: Hoxc5
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 222
+ long_description: homeobox C5
+          summary: homeobox
+       gene_start: 102922440
+         gene_end: 102925861
+      gene_length: 3421
+       chromosome: 15
+   sequence_start: MSSYVANSFY
+      orientation: plus
+       exon_count: 2
+*************************** 6. row ***************************
+     display_name: Prr13
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 137
+ long_description: proline rich 13
+          summary: proline
+       gene_start: 102367605
+         gene_end: 102371241
+      gene_length: 3636
+       chromosome: 15
+   sequence_start: MWNPNAGPNP
+      orientation: plus
+       exon_count: 5
+*************************** 7. row ***************************
+     display_name: Calcoco1
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 691
+ long_description: calcium binding and coiled coil domain 1
+          summary: calcium
+       gene_start: 102615212
+         gene_end: 102630616
+      gene_length: 15404
+       chromosome: 15
+   sequence_start: MEESSLSRAP
+      orientation: minus
+       exon_count: 16
+*************************** 8. row ***************************
+     display_name: Smug1
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 279
+ long_description: single-strand selective monofunctional uracil DNA glycosylase
+          summary: single-strand
+       gene_start: 103061717
+         gene_end: 103077360
+      gene_length: 15643
+       chromosome: 15
+   sequence_start: MAASQTFPLG
+      orientation: minus
+       exon_count: 12
+*************************** 9. row ***************************
+     display_name: Hoxc4
+          species: mus_musculus
+          biotype: protein_coding
+length_of_protein: 264
+ long_description: homeobox C4
+          summary: homeobox
+       gene_start: 102926531
+         gene_end: 102945281
+      gene_length: 18750
+       chromosome: 15
+   sequence_start: MIMSSYLMDS
+      orientation: plus
+       exon_count: 5
+*************************** 10. row ***************************
+     display_name: Mir615
+          species: mus_musculus
+          biotype: miRNA
+length_of_protein: NULL
+ long_description: microRNA 615
+          summary: microRNA
+       gene_start: 102923342
+         gene_end: 102923433
+      gene_length: 91
+       chromosome: 15
+   sequence_start: NULL
+      orientation: plus
+       exon_count: 1
+Table created! This table displays: the name, the type, the sequence length, the chromosome, the first 10 characters of the sequence, the orientation, and the exon count. All searched data is located in 3 files: uniprotfiles.tsv, ncbifiles.tsv, ensemblfiles.tsv. They are also on your mySQL server, and in the text file finalTable.tsv
