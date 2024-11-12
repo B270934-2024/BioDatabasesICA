@@ -1,0 +1,3 @@
+My code has taken inspiration from Al's bash lectures focussing on the bioinfomatics web, available here: https://bioinfmsc8.bio.ed.ac.uk/AY24_BPSM07.html
+In addition, we looked at ENSEMBL's information on how they store gene IDs, and how their API works.
+No code was directly copied and pasted - in fact, when I tried, I had to reorder the commands to get them to work properly.
